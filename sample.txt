@@ -18,3 +18,5 @@ zxczxczxc
 
 
 部署新的环境
+
+test ssh 方式
